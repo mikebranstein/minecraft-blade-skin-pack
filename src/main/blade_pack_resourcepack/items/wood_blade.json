@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "blade_pack:wood_blade",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "wood_blade",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

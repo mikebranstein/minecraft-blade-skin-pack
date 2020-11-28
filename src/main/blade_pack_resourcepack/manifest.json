@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "Blade Pack",
+    "uuid": "ed7d5f8f-9bdd-37a0-933e-c76b1fcb5cf4",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "4a48e477-b171-35b7-9ff6-846dcd96716f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Wes"
+    ],
+    "url": "https://mcreator.net"
+  }
+}
